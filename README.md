@@ -1,3 +1,6 @@
+THIS IS THE ADMIN PANEL OF WEBSITE 
+https://outfitter-admin-panel.vercel.app/
+
 Full Stack Project: User Authentication, Product Display, and Cart Management
 This project is a full-stack web application built with React.js using Vite for frontend development and Tailwind CSS for styling. On the backend, it utilizes Node.js with Express.js for API development, MongoDB for database management, and Mongoose as the ODM (Object Data Modeling) library.
 
@@ -31,5 +34,4 @@ Express.js: A web application framework for Node.js that simplifies the creation
 MongoDB: A NoSQL document-oriented database for storing product and user data.
 Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js, providing a schema-based solution to model application data.
 
-THIS IS THE ADMIN PANEL OF WEBSITE 
-https://outfitter-admin-panel.vercel.app/
+
