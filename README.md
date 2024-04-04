@@ -30,3 +30,6 @@ Node.js: A JavaScript runtime for building scalable and efficient server-side ap
 Express.js: A web application framework for Node.js that simplifies the creation of APIs.
 MongoDB: A NoSQL document-oriented database for storing product and user data.
 Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js, providing a schema-based solution to model application data.
+
+THIS IS THE ADMIN PANEL OF WEBSITE 
+https://outfitter-admin-panel.vercel.app/
