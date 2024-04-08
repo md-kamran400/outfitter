@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 import bannermens from "./assets/bannermens.png";
 import bannerwomens from "./assets/bannerwomens.png";
 import bannerkids from "./assets/bannerkids.png";
+import Checkout from "./components/Checkout";
 
 export default function App() {
   return (
@@ -32,6 +33,7 @@ export default function App() {
           <Route path="/cart-page" element={<Cart />} />
           <Route path="/product/:productId" element={<Product />} />
           <Route path="/login" element={<Login />} />
+          <Route path="/checkout" element={<Checkout />} />
         </Routes>
         <Footer />
       </BrowserRouter>
