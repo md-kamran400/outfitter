@@ -1,8 +1,10 @@
+please start the backend first with this link. First start the backend then the single product page will be displaying.
+!!!CLICK ON THIS LINK AND AFTER CLCIKING THIS LINK THE SERVER WILL BE START
+https://outfitter-backend-sosb.onrender.com/
+
+
 THIS IS THE ADMIN PANEL OF WEBSITE 
 https://outfitter-admin-panel.vercel.app/
-
-please start the backend first with this link 
-https://outfitter-backend-sosb.onrender.com/
 
 Full Stack Project: User Authentication, Product Display, and Cart Management
 This project is a full-stack web application built with React.js using Vite for frontend development and Tailwind CSS for styling. On the backend, it utilizes Node.js with Express.js for API development, MongoDB for database management, and Mongoose as the ODM (Object Data Modeling) library.
